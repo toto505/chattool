@@ -1,0 +1,23 @@
+{
+  "name": "chattool",
+  "version": "1.0.0",
+  "description": "環境のインストール\r npm install express@4\r npm install socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toto505/chattool.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/toto505/chattool/issues"
+  },
+  "homepage": "https://github.com/toto505/chattool#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.2"
+  }
+}
